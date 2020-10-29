@@ -1,0 +1,24 @@
+.jumbotron{
+    background-color: #34ace0;
+    color:#fff;
+    background: url('../../assets/slide.jpg') no-repeat center center;
+}
+.box{
+    border:1px solid #ccc;
+    padding:20px;
+}
+.container{
+    margin-bottom: 5%;
+}
+.box {
+    display: block;
+    text-align: center;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.4);
+}
+.slide
+{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    background-color: #34ace0;
+}
